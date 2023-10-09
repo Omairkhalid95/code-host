@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/upload-data/UploadData.jsx"],"names":["UploadData","_jsx","children"],"mappings":"sHAIeA,UAJf,WACE,OAAOC,cAAA,OAAAC,SAAK,cACd,C","file":"static/js/135.d9f5f202.chunk.js","sourcesContent":["function UploadData() {\n  return <div>UploadData</div>;\n}\n\nexport default UploadData;\n"],"sourceRoot":""}
